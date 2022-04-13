@@ -7,7 +7,7 @@ function App() {
     <BrowserRouter>
       <nav className="navbar is-dark has-shadow	">
         <div className="navbar-brand">
-          <img style={{ width: "50px" }} src={"./poggers.jpg"}></img>
+          <img alt="Poggers" style={{ width: "50px" }} src={"./poggers.jpg"}></img>
         </div>
         <div className="navbar-menu ">
           <div className="navbar-start">
